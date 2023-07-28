@@ -1,0 +1,60 @@
+﻿loc,expression,reference
+INTRODUCTION,Cryptopunk #9998,https://opensea.io/assets/ethereum/0xb47e3cd837ddf8e4c57f05d70ab865de6e193bbb/9998
+INTRODUCTION,Meebits #13824,https://looksrare.org/collections/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/13824
+INTRODUCTION,0x35D0CA,https://etherscan.io/address/0x35d0ca92152d1fea18240d6c67c2adfe0cca287c
+INTRODUCTION,0xA99A76,https://etherscan.io/address/0xa99a76dddbb9678bc33f39919bc76d279c680c89
+INTRODUCTION,"14,700 WETH",https://etherscan.io/tx/0xdc812ee7b10a486201ff8e79d417d9ee687cb80733bb35ccf2716e846d6e47d8
+INTRODUCTION,"15,000 WETH",https://etherscan.io/tx/0x7b81c97dfd4ce068e4de190d4e87a2aa896c183ef9112bcccb988325ea1964f0
+WASH TRADING/TRADER TYPES,OG:Crystal #4015,https://opensea.io/assets/ethereum/0x368ad4a7a7f49b8fa8f34476be0fc4d04ce622f5/4015
+WASH TRADING/TRADER TYPES,0xCF6FF6,https://etherscan.io/address/0xCF6Ff62D6a1Dd17a247E0571063bf849832cD9F5
+WASH TRADING/TRADER TYPES,0xC17D7c,https://etherscan.io/address/0xC17D7c18162DD3c92E4Ffbd097C285c567ee927c
+WASH TRADING/TRADER TYPES,Omnimorph #3980,https://opensea.io/assets/ethereum/0xb5f3dee204ca76e913bb3129ba0312b9f0f31d82/3980
+WASH TRADING/TRADER TYPES,0x6149ca,https://etherscan.io/address/0x6149ca59f9c8f235932499799c7b8dad4544bb9a
+WASH TRADING/TRADER TYPES,0x0f767ef,https://etherscan.io/address/0x0f767ef8e052077dc0036fe5afb7b942766a7e2d
+WASH TRADING/TRADER TYPES,VeeFriends #7582,https://opensea.io/assets/ethereum/0xa3aee8bce55beea1951ef834b99f3ac60d1abeeb/7582
+WASH TRADING/TRADER TYPES,Loot #2157,https://opensea.io/assets/ethereum/0xff9c1b15b16263c61d017ee9f65c50e4ae0113d7/2157
+WASH TRADING/TRADER TYPES,"Loot #2157 was wash-traded
+ten times between by 0xB7639A and 0x996665 for 1 ETH
+between 2022-08-10T12:11:14Z and 2022-08-11T03:25:36Z.
+Shortly after, it was sold by 0xB7639A to 0xcc8990, and
+the same wash trading behavior happened again between
+0xcc8990 and 0xBF1eD4, and more address pairs. Within a
+day, 178 transactions transpired back and forth at nearly the
+same price, and the domain names of sellers and buyers were
+highly similar, all in the form of Chinese license plates.",https://etherscan.io/token/0xff9c1b15b16263c61d017ee9f65c50e4ae0113d7?a=2157
+DATA COLLECTION AND PREPROCESSING,Alpha Shark #9,https://opensea.io/assets/ethereum/0x4372f4d950d30c6f12c7228ade77d6cc019404c9/9
+DATA COLLECTION AND PREPROCESSING,0x1c2fd0 ,https://etherscan.io/address/0x1c2fd05267d42bf43f3bc1d5a84adea7be1cd1ea
+DATA COLLECTION AND PREPROCESSING,0x9164e3,https://etherscan.io/address/0x9164e3205edff5efe1073af093005c00e0f475dd
+DATA COLLECTION AND PREPROCESSING,0x99264d ,https://etherscan.io/address/0x99264d8bf2513bfe7660085629e332f565fe0cb1
+DATA COLLECTION AND PREPROCESSING,0x2c8097,https://etherscan.io/tx/0x2c80979cd8759364295f187bec2f8a61d8d3f35246b22f0eb8550e9f81bcf9f2
+DATA COLLECTION AND PREPROCESSING,0n1-force #305,https://opensea.io/assets/ethereum/0x3bf2922f4520a8ba0c2efc3d2a1539678dad5e9d/305
+DATA COLLECTION AND PREPROCESSING,OpenSea: Wyvern Exchange v1,https://etherscan.io/address/0x7be8076f4ea4a4ad08075c2508e481d6c946d12b
+DATA COLLECTION AND PREPROCESSING,0x361ae0,https://etherscan.io/tx/0x361ae0e878a2e9dbd45cd966c515141eac215387806a935fc80fc45b2e9a75dd
+DATA COLLECTION AND PREPROCESSING,GemSwap2,https://etherscan.io/address/0x83c8f28c26bf6aaca652df1dbbe0e1b56f8baba2
+XPERIMENTAL RESULTS,0x837E6f,https://etherscan.io/address/0x837E6fD5D2b39b6fd2791bA8a4a364d104c18e15
+XPERIMENTAL RESULTS,0xABE3aE,https://etherscan.io/address/0xABE3aE88581aF7C59287014EbBeD0660b50b3Ef7
+XPERIMENTAL RESULTS,Bean #16738 ,https://opensea.io/assets/ethereum/0x306b1ea3ecdf94ab739f1910bbda052ed4a9f949/16738
+XPERIMENTAL RESULTS,Bored Ape Yacht Club \#5332,https://opensea.io/assets/ethereum/0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d/5332
+FINDINGS FROM MULTIPLE DIMENSIONS,Meebits,https://opensea.io/collection/meebits
+FINDINGS FROM MULTIPLE DIMENSIONS,Bored Ape Yacht Club #4937,https://opensea.io/assets/ethereum/0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d/4937
+FINDINGS FROM MULTIPLE DIMENSIONS,LOOKS,https://etherscan.io/token/0xf4d2888d29d722226fafa5d9b24f9164c092421e
+FINDINGS FROM MULTIPLE DIMENSIONS,OG:Crystal #895,https://opensea.io/assets/ethereum/0x368ad4a7a7f49b8fa8f34476be0fc4d04ce622f5/895
+FINDINGS FROM MULTIPLE DIMENSIONS,0x89a09c,https://etherscan.io/address/0x89a09c19C4602B6e55c7F183Ea5db60B08400386
+FINDINGS FROM MULTIPLE DIMENSIONS,0x0B7742,https://etherscan.io/address/0x0B7742739bd963576A3C0DCB260bfe6dC2101E08
+FINDINGS FROM MULTIPLE DIMENSIONS,OG:Crystal #1861,https://opensea.io/assets/ethereum/0x368ad4a7a7f49b8fa8f34476be0fc4d04ce622f5/1861
+FINDINGS FROM MULTIPLE DIMENSIONS,0x9FFFB8,https://etherscan.io/address/0x9FFFb80e44EcB0f89e48E180cb7B4Bb1e17560E0
+FINDINGS FROM MULTIPLE DIMENSIONS,0xB05Cb1,https://etherscan.io/address/0xB05Cb18493b5251bD7cFdCB59e3A3c9d91Fe6685
+FINDINGS FROM MULTIPLE DIMENSIONS,Kaiju Kingz,https://opensea.io/collection/kaiju-kingz
+FINDINGS FROM MULTIPLE DIMENSIONS,0xcF5e38,https://etherscan.io/address/0xcF5e38FcDe3742965e66f33Bf4d5cD4173FcF6Bc
+FINDINGS FROM MULTIPLE DIMENSIONS,0xe67753,https://etherscan.io/address/0xe6775332Bfc3Ebd6705Fe59E5DAd9f1D0584D290
+FINDINGS FROM MULTIPLE DIMENSIONS,0xeB1543,https://etherscan.io/address/0xeB1534b4De07C718A00a89A2dfEdAe06fab6267d
+FINDINGS FROM MULTIPLE DIMENSIONS,0xB893AE,https://etherscan.io/address/0xB893AE8A1824604F6df4Dfde52E2754921ba1A73
+FINDINGS FROM MULTIPLE DIMENSIONS,OG:Crystal #5609,https://opensea.io/assets/ethereum/0x368ad4a7a7f49b8fa8f34476be0fc4d04ce622f5/5609
+FINDINGS FROM MULTIPLE DIMENSIONS,OG:Crystal #6255,https://opensea.io/assets/ethereum/0x368ad4a7a7f49b8fa8f34476be0fc4d04ce622f5/6255
+FINDINGS FROM MULTIPLE DIMENSIONS,Chibi Dino #5723,https://opensea.io/assets/ethereum/0xe12edaab53023c75473a5a011bdb729ee73545e8/5722
+FINDINGS FROM MULTIPLE DIMENSIONS,dotdotdot #2663,https://opensea.io/assets/ethereum/0xce25e60a89f200b1fa40f6c313047ffe386992c3/2663
+FINDINGS FROM MULTIPLE DIMENSIONS,0x1a4521,https://etherscan.io/tx/0x1a4521149ca102034649d936b78793b7dd6fec46902ef6f0a7c023c46390e3bf
+FINDINGS FROM MULTIPLE DIMENSIONS,0x4EDE98,https://etherscan.io/address/0x4EDE986f8EE80c8dC3500967733221DD1b44fE00
+FINDINGS FROM MULTIPLE DIMENSIONS,0xE1f14d,https://etherscan.io/address/0xE1f14d1e912BED6538E2D85F59eA28FD8B1c7D02
+FINDINGS FROM MULTIPLE DIMENSIONS,Animeta #4302,https://opensea.io/assets/ethereum/0x18df6c571f6fe9283b87f910e41dc5c8b77b7da5/4302
+FINDINGS FROM MULTIPLE DIMENSIONS,0x536fa8,https://etherscan.io/tx/0x536fa8547f3aa9b176f60b18cf9d801c8fde8e5ae3013e10b806e8ff4434668a
